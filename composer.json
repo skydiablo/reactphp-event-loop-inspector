@@ -9,8 +9,8 @@
     }
   ],
   "require": {
-    "php": "^7.0",
-    "react/event-loop": "dev-master as v0.4.3",
+    "php": "^7.0 || ^8.0",
+    "react/event-loop": "dev-master",
     "evenement/evenement": "^3.0 || ^2.0"
   },
   "require-dev": {
